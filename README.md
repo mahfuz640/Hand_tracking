@@ -7,9 +7,7 @@ This project demonstrates computer vision–based hand tracking using a webcam o
 
 ## 📽️ Video
 
-https://github.com/mahfuz640/Hand-Tracking-AR-UI/main/2025-11-03%2015-07-52.mp4?raw=true
-
-You can **watch the demo** by clicking the link above or viewing it directly in your browser.
+https://github.com/mahfuz640/Hand-Tracking-AR-UI/blob/main/2025-11-03%2015-07-52.mp4
 
 ---
 
